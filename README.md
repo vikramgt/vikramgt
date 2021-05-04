@@ -1,4 +1,5 @@
 ### Hi there 👋. I am Vikram Thunga
+<a href="tel:9964432982"> Call me at 996-443-2982 </a>
 
 <!--
 **vikramgt/vikramgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
