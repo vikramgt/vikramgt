@@ -1,17 +1,28 @@
-### Hi there 👋. I am Vikram Thunga
-<a href="tel:9964432982"> Call me at 996-443-2982 </a>
+# Hello, I'm Vikram Thunga 👋
 
-<!--
-**vikramgt/vikramgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Recent Computer Science Engineering graduate (Class of 2023)
+- 📅 Born on December 5, 2001
+- 🌍 Based in Mangaluru, India
+- 🌐 Fluent in English, Hindi, and Kannada
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Proficient in:
+  - Python
+  - Docker
+  - C
+  - C++
+  - Java
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
+  - PostgreSQL
+- 📚 Currently learning MongoDB
+)
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning Python, HTML and CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/vikramgirishthunga/))
+
+Feel free to explore my GitHub repositories for more projects and contributions!
+
