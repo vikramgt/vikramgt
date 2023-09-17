@@ -19,7 +19,6 @@
   - SQL
   - PostgreSQL
 - 📚 Currently learning MongoDB
-)
 
 ## Connect with Me
 - LinkedIn: [Vikram Girish Thunga](https://www.linkedin.com/in/vikramgirishthunga/)
