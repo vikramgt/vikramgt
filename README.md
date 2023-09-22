@@ -1,7 +1,7 @@
 # Hello, I'm Vikram Thunga 👋
 
 ## About Me
-- 🎓 Recent Computer Science Engineering graduate (Class of 2023)
+- 🎓 Computer Science Engineering graduate (Class of 2023)
 - 📅 Born on December 5, 2001
 - 🌍 Based in Mangaluru, India
 - 🌐 Fluent in English, Hindi, and Kannada
