@@ -24,4 +24,3 @@
 - LinkedIn: [Vikram Girish Thunga](https://www.linkedin.com/in/vikramgirishthunga/)
 
 Feel free to explore my GitHub repositories for more projects and contributions!
-
