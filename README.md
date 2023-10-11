@@ -24,3 +24,6 @@
 - LinkedIn: [Vikram Girish Thunga](https://www.linkedin.com/in/vikramgirishthunga/)
 
 Feel free to explore my GitHub repositories for more projects and contributions!
+
+
+[![An image of @vikramgt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikramgt)](https://holopin.io/@vikramgt)
